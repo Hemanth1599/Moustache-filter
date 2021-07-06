@@ -1,0 +1,15 @@
+.heading{
+    font-size: 26px;
+    box-shadow: 5px 5px 18px green;
+}
+.btn_pic{
+    font-size: 16px;
+    width: 300px;
+    box-shadow: 5px 5px 18px rgb(240, 164, 24);
+}
+canvas{
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px black;
+    margin-top: 50px;
+}
